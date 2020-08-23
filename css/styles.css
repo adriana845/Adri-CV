@@ -1,0 +1,182 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html{
+	font-size: 100%;
+	  }
+
+body{
+	background-color:#f3f3f3;
+} 
+nav{
+	background-color:#158467;
+	text-align: right;
+	position: relative;
+	height: 30vh;
+	width: 100%;
+	padding: 10px;
+}
+nav img{
+	width: 20vw;
+	position: absolute;
+	left: 20px;
+	border-style:double;
+	border-color: gray;
+	
+}
+nav ul{
+	display:inline-block;
+	list-style-type:none;
+
+}
+nav a{
+	text-decoration:none;
+	font-size: 1.2rem;
+	font-family:'Raleway', sans-serif;
+	color:#BBB5B5;
+	margin-bottom: 10px;
+	
+
+}
+ h1{
+	color:#0a4650;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.5rem;
+	text-align: center;
+	margin-top: 10px;
+}
+header h2{
+	color:#0a4650;
+	font-family:'Raleway', sans-serif;
+	font-size: 2.5rem;
+	text-align: center;
+	margin-top: 10px;
+}
+.laguna{
+	width: 50vw;
+	margin-top: 30px;
+}
+section h2{
+	text-align:justify-all;
+	background-color:#0a4650;
+	display:inline block;
+	left: 55%;
+	top:  145%;
+	position: absolute;
+	height:  50vh;
+	width: 40vw;
+	font-size: 1.5rem;
+	padding: 5%;
+}
+.hola img{
+	display: inline-block;
+	width:50vw;
+	position: relative;
+
+}
+div img {
+width: 50vw;
+position: relative;
+left: 50%;
+display: inline-block;
+
+}
+h3{
+	text-align:justify-all;
+	background-color:#0a4650;
+	display:inline block;
+	margin: 8%;
+	top: 190%;
+	position: absolute;
+	height:  120vh;
+	width: 40vw;
+	font-size: 1rem;
+	padding: 5%;
+}
+h3 img{
+	width: 60%;
+}
+
+
+
+/*imagenes............*/
+
+
+
+footer{
+	text-align: center;	
+	background: #4b5d67
+	width: 50%;
+}
+
+button{
+	background-color:#197163;
+	width: 30%;
+	height: 10vh;
+	display: block;
+	margin: auto;
+	position: relative;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+
+button img{
+	height: 7vh;
+	position: relative;
+	left: 10px;
+	top: 5px;
+}
+button p{
+	display: inline-block;
+	padding: 10px;
+	font-size: 2.5rem;
+	color: purple;
+}
+
+.redes{
+	background-color:#87556f;
+	padding: 20px;
+}
+
+/*Mi formación---------------------------------------*/
+h2{
+	text-align: center;
+	  }
+li{
+	text-align: center;
+}
+#caja1 img{
+border-radius: 30px; 
+border-style: none;
+padding: 10px 10px;
+ position: relative;
+ width: 250px;
+ left:22%;
+}
+
+
+	/*contacto-----------------------------------*/
+
+#p1{
+position: relative;
+margin: auto;
+left: 37%;
+}
+
+fieldset{
+	text-align: center;
+
+}
+/*Pasatiempos.......................................*/
+#cajaa {
+	margin-left: 10%;
+	position:relative;
+	width: 80%;
+	 }
+	#song{
+		position: relative;
+		margin: auto;
+	}
